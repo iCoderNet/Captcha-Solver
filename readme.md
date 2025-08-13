@@ -38,7 +38,7 @@ solve_captcha("c2.png")
 
 ## Natija
 ```
-✅ Captcha natijasi: J7K9 
+✅ Captcha natijasi: TCVV
 ```
 
 ## Talablar
